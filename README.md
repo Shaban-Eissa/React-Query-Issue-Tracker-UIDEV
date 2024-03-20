@@ -30,13 +30,13 @@ A Demo built for the react query course at ui.dev to implement the core and conc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Shaban-Eissa/React-Query-UI.Dev
+   git clone https://github.com/Shaban-Eissa/React-Query-Issue-Tracker-UIDEV
    ```
 
 2. Navigate to the project directory:
     
     ```bash
-    cd React-Query-UI.Dev
+    cd React-Query-Issue-Tracker-UIDEV
     ```
     
 3. Install dependencies:
