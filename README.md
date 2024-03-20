@@ -21,8 +21,8 @@ A Demo built for the react query course at ui.dev to implement the core and conc
 
 ## Demo
 
-<img src="https://github.com/Shaban-Eissa/React-Query-UI.Dev/assets/49924090/4fed3b8b-8134-4701-a6ba-d4c6c4c546d4" width="900" height="450" />
-<img src="https://github.com/Shaban-Eissa/React-Query-UI.Dev/assets/49924090/d7ad2634-ef04-454a-96ce-9fa37693c92b" width="900" height="450" />
+<img src="https://github.com/Shaban-Eissa/React-Query-UI.Dev/assets/49924090/4fed3b8b-8134-4701-a6ba-d4c6c4c546d4" width="960" height="450" />
+<img src="https://github.com/Shaban-Eissa/React-Query-UI.Dev/assets/49924090/d7ad2634-ef04-454a-96ce-9fa37693c92b" width="960" height="450" />
 
 
 ## Installation
