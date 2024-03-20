@@ -60,7 +60,6 @@ This project utilizes a robust stack of modern technologies for efficient develo
 - React
 - React Query
 - React Icons
-- 
   
 ## Contributing
 
