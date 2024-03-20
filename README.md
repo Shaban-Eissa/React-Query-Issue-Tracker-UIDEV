@@ -1,28 +1,74 @@
-<h1 align="center">
-  <a href="https://ui.dev">
-    <img
-      src="https://ui.dev/images/ambitious-banner-dark.jpg"
-      alt="ui.dev banner" width="600" />
-  </a>
-  <br />
-</h1>
+# React Query Issue Tracker Application
 
-<h3 align="center">React Query Course PRoject - <a href="https://react-query-issue-tracker.ui.dev">Issue Tracker</a></h3>
+<img src="https://github.com/Shaban-Eissa/React-Query-UI.Dev/assets/49924090/57ba96c9-2178-414f-b09b-d4066f5179b9" width="150" height="150" />
 
-### Info
+A Demo built for the react query course at ui.dev to implement the core and concept of react query.
 
-This is the repository for [ui.dev](https://ui.dev)'s "React Query" course project.
+## Table of Contents
 
-For more information on the course, visit **[ui.dev/react-query](https://ui.dev/react-query)**.
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
 
-### Project
 
-This project is an app for tracking issues. The backend is fully mocked with [MSW](https://mswjs.io) - the project is building the UI and data fetching using [React Query](https://react-query.tanstack.com)
+## Features
 
-You can view the final project **[here](https://react-query-issue-tracker.ui.dev)**
+- **Create:** Allow users to create new issue with the title and comment for each issue.
+- **Filter:** Allow users to filter the issues based on issue status, issue label.
 
-### Branches
+## Demo
 
-Every `(Project)` video in the course coincides with a branch in this repo. If you want to compare your code with Alex's or you just want to play around with the code, check out the different branches.
+<img src="https://github.com/Shaban-Eissa/React-Query-UI.Dev/assets/49924090/4fed3b8b-8134-4701-a6ba-d4c6c4c546d4" width="900" height="450" />
+<img src="https://github.com/Shaban-Eissa/React-Query-UI.Dev/assets/49924090/d7ad2634-ef04-454a-96ce-9fa37693c92b" width="900" height="450" />
 
-Below every `(Project)` video in the course will be a direct link to both the commit for that video as well as its branch.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Shaban-Eissa/React-Query-UI.Dev
+   ```
+
+2. Navigate to the project directory:
+    
+    ```bash
+    cd React-Query-UI.Dev
+    ```
+    
+3. Install dependencies:
+    
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+1. Start the UI:
+    ```bash
+    npm run dev
+    ```
+   
+
+## Technologies
+
+This project utilizes a robust stack of modern technologies for efficient development and optimal user experience:
+
+- React
+- React Query
+- React Icons
+- 
+  
+## Contributing
+
+Contributions are welcome! Please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your feature/bugfix: `git checkout -b feature-name`.
+3. Commit your changes: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature-name`.
+5. Open a pull request.
+
